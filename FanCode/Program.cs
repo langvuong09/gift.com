@@ -71,11 +71,14 @@ class Program
         fan1.setColor("yellow");
         fan1.setOn(true);
 
+        Console.WriteLine(fan1.ToString());
+
         Fan fan2 = new Fan();
         fan1.setSpeed(Fan.MEDIUM);
         fan1.setRadius(5);
+        fan1.setColor("blue");
+        fan1.setOn(false);
 
-        Console.WriteLine(fan1.ToString());
         Console.WriteLine(fan2.ToString());
     }
 }

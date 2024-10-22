@@ -1,0 +1,15 @@
+E:\C#\FanCode\bin\Debug\net8.0\FanCode.exe
+E:\C#\FanCode\bin\Debug\net8.0\FanCode.deps.json
+E:\C#\FanCode\bin\Debug\net8.0\FanCode.runtimeconfig.json
+E:\C#\FanCode\bin\Debug\net8.0\FanCode.dll
+E:\C#\FanCode\bin\Debug\net8.0\FanCode.pdb
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.AssemblyInfoInputs.cache
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.AssemblyInfo.cs
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.csproj.CoreCompileInputs.cache
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.sourcelink.json
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.dll
+E:\C#\FanCode\obj\Debug\net8.0\refint\FanCode.dll
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.pdb
+E:\C#\FanCode\obj\Debug\net8.0\FanCode.genruntimeconfig.cache
+E:\C#\FanCode\obj\Debug\net8.0\ref\FanCode.dll
