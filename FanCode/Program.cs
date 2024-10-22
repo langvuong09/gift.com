@@ -21,32 +21,24 @@
         color = "blue";
     }
     
-    public int getSpeed(){
-        return speed;
-    }
-    public void setSpeed(int speed){
-        this.speed = speed;
+    public int Speed{
+        get{ return speed;}
+        set{speed = value;}
     }
 
-    public bool getOn(){
-        return on;
-    }
-    public void setOn(bool on){
-        this.on = on;
+    public bool On{
+        get{ return on;}
+        set{ on = value;}
     }
 
-    public double getRadius(){
-        return radius;
-    }
-    public void setRadius(double radius){
-        this.radius = radius;
+    public double Radius{
+        get{ return radius;}
+        set{ radius = value;}
     }
 
-    public string getColor(){
-        return color;
-    }
-    public void setColor(string color){
-        this.color = color;
+    public string Color{
+        get{ return color;}
+        set{ color = value;}
     }
 
     public override string ToString()
@@ -66,18 +58,18 @@ class Program
 {
     public static void Main(string[] args){
         Fan fan1 = new Fan();
-        fan1.setSpeed(Fan.FAST);
-        fan1.setRadius(10);
-        fan1.setColor("yellow");
-        fan1.setOn(true);
+        fan1.Speed = Fan.FAST;
+        fan1.Radius = 10;
+        fan1.Color = "yellow";
+        fan1.On = true;
 
         Console.WriteLine(fan1.ToString());
 
         Fan fan2 = new Fan();
-        fan1.setSpeed(Fan.MEDIUM);
-        fan1.setRadius(5);
-        fan1.setColor("blue");
-        fan1.setOn(false);
+        fan1.Speed = Fan.MEDIUM;
+        fan1.Radius = 5;
+        fan1.Color = "blue";
+        fan1.On = false;
 
         Console.WriteLine(fan2.ToString());
     }
