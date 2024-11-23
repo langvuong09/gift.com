@@ -1,0 +1,15 @@
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfoInputs.cache
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.AssemblyInfo.cs
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.csproj.CoreCompileInputs.cache
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.sourcelink.json
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.exe
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.deps.json
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.runtimeconfig.json
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.dll
+E:\C#\RanSanMoi\bin\Debug\net8.0\RanSanMoi.pdb
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.dll
+E:\C#\RanSanMoi\obj\Debug\net8.0\refint\RanSanMoi.dll
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.pdb
+E:\C#\RanSanMoi\obj\Debug\net8.0\RanSanMoi.genruntimeconfig.cache
+E:\C#\RanSanMoi\obj\Debug\net8.0\ref\RanSanMoi.dll
